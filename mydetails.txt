@@ -1,0 +1,27 @@
+myetherwallet
+
+password
+
+W@rkhard123
+
+Privatekey
+e8acd90aaa6b487e156fb94688e161108c246435a3151a1c63a6295c7f66526f
+
+Ethereum Address
+0x8C49F013E6d7d344062c9DdfE8D4BD14F1B534fa
+
+Hi Zain,
+
+As of now. I read about the blockchain technologies, Solidity programming language used to build smart contracts.
+
+Please read about Ethereum crowdfunding.
+
+https://ethereum.org/ (Kickstart a project with a trustless crowdsale)
+
+I have 2 ideas
+
+1 - We have to think about a project under blockchain technology (Insurance, Bidding, Raising funds).
+--------After building the app we can create tokens (Virtual shares) and sell it via crowdfunding.
+
+2 - We can be a blockchain company and help others to create and deploy the crowdfunding
+
